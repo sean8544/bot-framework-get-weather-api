@@ -22,6 +22,7 @@ namespace Company.Function
 
             string name = req.Query["name"];
             
+            
             string[] citys=new string[]{"beijing","shanghai","guangzhou","shenzhen"};
             
             
